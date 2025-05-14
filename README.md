@@ -1,20 +1,3 @@
->### 🗒️ A Note for Non-Programmers
->
->You might not be a developer, so let me explain something briefly.
->
->In this post, I talk about two ways of writing code for the web:
->
->* **Vanilla JavaScript** – This means writing code using the built-in capabilities of the web browser. It’s like knowing how to cook from scratch using raw ingredients: you control everything, and you understand exactly what’s happening at every step.
->
->* **React** – This is a popular tool (or *framework*) built on top of JavaScript. It gives developers a more structured way to build websites and apps, especially in large teams. But it comes with its own rules, tools, and ways of thinking — it’s more like using a meal kit where you follow specific instructions and use pre-made sauces. Faster, yes, but you have less freedom.
->
->The post you're about to read is about how *React changes the way I have to think* — and why that shift doesn’t feel natural to me. It’s like asking a chef to give up their knife and only use a >microwave. Sure, it works — but it’s not how I like to solve problems.
->
->So even if the technical terms get a little dense, the heart of this post is really about **creative freedom vs. working inside someone else’s system**.
->
->Thanks for reading with an open mind. 🙂
-
-
 ## 🧠 Why React and I Don’t Get Along — A Vanilla JS Developer’s Honest Take
 
 Over the past year, I’ve worked on a large, complex React project with an international team. I’ve written production code, fixed bugs, reviewed pull requests, and I’m even halfway through a React course to deepen my understanding. But the more I learn, the more I realize: **React just isn’t for me**.
@@ -120,3 +103,19 @@ So I’ll keep learning React. I’ll stay employable. But I’ll be building wh
 **Vanilla JavaScript.**
 
 ---
+
+### 🗒️ A Note for Non-Programmers
+
+You might not be a developer, so let me explain something briefly.
+
+In this post, I talk about two ways of writing code for the web:
+
+* **Vanilla JavaScript** – This means writing code using the built-in capabilities of the web browser. It’s like knowing how to cook from scratch using raw ingredients: you control everything, and you understand exactly what’s happening at every step.
+
+* **React** – This is a popular tool (or *framework*) built on top of JavaScript. It gives developers a more structured way to build websites and apps, especially in large teams. But it comes with its own rules, tools, and ways of thinking — it’s more like using a meal kit where you follow specific instructions and use pre-made sauces. Faster, yes, but you have less freedom.
+
+The post you're about to read is about how *React changes the way I have to think* — and why that shift doesn’t feel natural to me. It’s like asking a chef to give up their knife and only use a >microwave. Sure, it works — but it’s not how I like to solve problems.
+
+So even if the technical terms get a little dense, the heart of this post is really about **creative freedom vs. working inside someone else’s system**.
+
+Thanks for reading with an open mind. 🙂
