@@ -114,7 +114,7 @@ In this post, I talk about two ways of writing code for the web:
 
 * **React** – This is a popular tool (or *framework*) built on top of JavaScript. It gives developers a more structured way to build websites and apps, especially in large teams. But it comes with its own rules, tools, and ways of thinking — it’s more like using a meal kit where you follow specific instructions and use pre-made sauces. Faster, yes, but you have less freedom.
 
-The post you're about to read is about how *React changes the way I have to think* — and why that shift doesn’t feel natural to me. It’s like asking a chef to give up their knife and only use a >microwave. Sure, it works — but it’s not how I like to solve problems.
+This post is about how *React changes the way I have to think* — and why that shift doesn’t feel natural to me. It’s like asking a chef to give up their knife and only use a >microwave. Sure, it works — but it’s not how I like to solve problems.
 
 So even if the technical terms get a little dense, the heart of this post is really about **creative freedom vs. working inside someone else’s system**.
 
